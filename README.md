@@ -29,10 +29,6 @@
 <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek97&layout=compact" />
-<br />
-<br />
-
 ## Thank You, here's a little joke for you :D
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <br />
