@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on some websites in ReactJs!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to create other websites
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Pass the Piscine of 42 Roma Luiss
 - ⚡ Fun fact: I love to draw and play guitar / drums, but i'm good only at programming
 
 ### Connect with me:
