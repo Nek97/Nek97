@@ -3,10 +3,10 @@
 ![Nek97's github stats](https://github-readme-stats.vercel.app/api?username=nek97&hide=stars&hide_title=true&show_icons=true&count_private=true)
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on some websites in ReactJs!
+- 🔭 I’m currently working on Nestjs!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to create other websites
-- 🥅 2020 Goals: Pass the Piscine of 42 Roma Luiss
+- 🥅 2021 Goals: Continue on my way
 - ⚡ Fun fact: I love to draw and play guitar / drums, but i'm good only at programming
 
 ### Connect with me:
