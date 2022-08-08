@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums, but i'm good only at programming
 
 ## Co-creator
-- Nestjs-yalc
+- [Nestjs-yalc] (https://github.com/Drassil/nestjs-yalc)
 
 ### Connect with me:
 
