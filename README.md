@@ -2,7 +2,7 @@
 
 ![Nek97's github stats](https://github-readme-stats.vercel.app/api?username=nek97&hide=stars&hide_title=true&show_icons=true&count_private=true)
 
-## I'm a Backend-Developer!
+## I'm a FullStack-Developer!
 - 🔭 I’m currently working on Nestjs!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to create other websites
