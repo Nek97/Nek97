@@ -1,11 +1,9 @@
 ### Hi there, I'm Aniello - aka [Nek97][website] 👋
 
-![Nek97's github stats](https://github-readme-stats.vercel.app/api?username=nek97&hide=stars&hide_title=true&show_icons=true&count_private=true)
-
 ## I'm a FullStack-Developer!
-- 🔭 I’m currently working in Finanza.tech
-- 👯 I’m looking to create other websites
-- 🥅 2023 Goals: the new way
+- 🔭 I’m currently working in Vita
+- 👯 I’m looking to create web application
+- 🥅 2024 Goals: test hard as possible AI
 - ⚡ Fun fact: I love to draw and play guitar / drums, but i'm good only at programming
 
 ## Co-creator
